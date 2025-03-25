@@ -1,6 +1,9 @@
-# Audio Connector - Implementación de Referencia
+# Server Vad Implementation Audio Connector
 
 Este proyecto es una implementación de referencia para Audio Connector, permitiendo integrar diferentes servicios de voz y procesamiento de lenguaje.
+
+## Arquitectura
+![image](https://github.com/user-attachments/assets/a2188d95-2518-43ea-b602-81a4abde0cff)
 
 ## Configuración
 
